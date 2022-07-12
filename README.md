@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="mailto:sanket.c1007@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mailto:sanket.c1007@gmail.com" height="30" width="40" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/sanket-chaudhari-357208191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sanket-chaudhari-357208191" height="30" width="40" /></a> &nbsp;
 <a href="https://github.com/sanketchaudhari10" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="https://github.com/sanketchaudhari10" height="30" width="80" /></a>
 </p>
