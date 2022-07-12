@@ -35,9 +35,10 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png" alt="ReactJs" width="40" height="40"/> </a> &nbsp;&nbsp;
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/> </a> &nbsp;&nbsp;
- <a href="https://www.sql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png" alt="SQL" width="40" height="40"/> </a>&nbsp;&nbsp;
- 
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+ <a href="https://www.sql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png" alt="SQL" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+
+</p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketchaudhari10&show_icons=true&locale=en&layout=compact&theme=dark" alt="sanketchaudhari10" /></p> -->
 
