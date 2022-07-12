@@ -37,7 +37,9 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/> </a> &nbsp;&nbsp;
  <a href="https://www.sql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png" alt="SQL" width="40" height="40"/> </a>&nbsp;&nbsp; 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40"/> </a> &nbsp;&nbsp;
+ 
+ <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketchaudhari10&show_icons=true&locale=en&layout=compact&theme=dark" alt="sanketchaudhari10" /></p> -->
