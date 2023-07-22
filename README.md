@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Chaudhari</h1>
 <h3 align="center">A passionate Web Developer. A Guy trying to find way around the Techs.</h3>
-<h3 align="left">I'm currently in Final Year and pursuing my graduate 🎓 in Computers from Savitribai Phule Pune University through Pimpri Chinchwad College of Engineering, Pune. I ❤️ to get tangled with new exciting 💡 technologies and give them a try. I am well-versed with Python and C++ and exploring Web development.</h3>
+<h3 align="left">I'm a Graduate 🎓 in Computers from Savitribai Phule Pune University through Pimpri Chinchwad College of Engineering, Pune. I ❤️ to get tangled with new exciting 💡 technologies and give them a try. I am well-versed with Python and C++ and exploring Web development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketchaudhari10&label=Profile%20views&color=0e75b6&style=flat" alt="sanketchaudhari10" /> </p>
 
 - 🔭 I’m currently working on **JS and Problem Solving**
